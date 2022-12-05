@@ -1,4 +1,5 @@
-# Kaggle-Competition
+# Kaggle-Competition 🧮
+➢ Para esta competición amistosa de clase se nos pedía emplear modelos de ML (machine learning) para predecir el salario de los trabajos de data.
 # Ojetivos de la competición
 📍 Preparar los datos para los diversos modelos (proceso empírico) 
 
